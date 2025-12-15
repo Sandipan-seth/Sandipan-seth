@@ -62,6 +62,13 @@ I’m a passionate developer who enjoys building real-world applications, learni
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandipan-seth&layout=compact)
 
+![Commits](https://badges.pufler.dev/commits/Sandipan-seth)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Sandipan-seth)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sandipan-seth)
+
+
 ---
 
 ## 📫 Connect With Me
