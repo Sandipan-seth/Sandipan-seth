@@ -58,15 +58,14 @@ I’m a passionate developer who enjoys building real-world applications, learni
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sandipan-seth&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandipan-seth&layout=compact)
 
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: *(add your link)*
-- 📧 Email: *(add your email)*
+- 📧 Email: sandipanseth2004@gmail.com
 
 ---
 
