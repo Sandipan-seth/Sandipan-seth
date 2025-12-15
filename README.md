@@ -7,7 +7,7 @@ I’m a passionate developer who enjoys building real-world applications, learni
 ---
 
 ## 🧑‍💻 About Me
-- 💻 Full Stack Developer (MERN)
+- 💻 Full Stack Developer
 - 🌐 Experience with React, Next.js, Node.js, Express
 - ☕ Strong foundation in Java & Data Structures
 - 🔌 Worked with WebRTC, Socket.IO, REST APIs
@@ -41,6 +41,31 @@ I’m a passionate developer who enjoys building real-world applications, learni
 
 ---
 
+## 🛠️ Tech Stack
+
+### 🚀 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,js,ts" />
+</p>
+
+### ⚙️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java" />
+</p>
+
+### 🗄️ Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🧰 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,render" />
+</p>
+
+---
+
+
 ## 📌 Projects
 🔹 **Video Chat Application**
 - Real-time video calling using WebRTC & Socket.IO  
@@ -58,7 +83,6 @@ I’m a passionate developer who enjoys building real-world applications, learni
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sandipan-seth&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandipan-seth&layout=compact)
 
