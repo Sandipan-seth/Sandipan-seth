@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi 👋, I'm Sandipan Seth  
 
-<!--
-**Sandipan-seth/Sandipan-seth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | MERN Stack | React | Node.js | Java  
 
-Here are some ideas to get you started:
+I’m a passionate developer who enjoys building real-world applications, learning new technologies, and solving problems through clean and efficient code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+- 💻 Full Stack Developer (MERN)
+- 🌐 Experience with React, Next.js, Node.js, Express
+- ☕ Strong foundation in Java & Data Structures
+- 🔌 Worked with WebRTC, Socket.IO, REST APIs
+- 🎯 Interested in System Design & Scalable Applications
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+- React.js
+- Next.js
+- HTML, CSS, Tailwind
+- JavaScript, TypeScript
+
+**Backend**
+- Node.js
+- Express.js
+- REST APIs
+- Socket.IO
+
+**Database**
+- MongoDB
+- MySQL (Basics)
+
+**Other Tools**
+- Git & GitHub
+- Docker (Basics)
+- Postman
+- Vercel / Render
+
+---
+
+## 📌 Projects
+🔹 **Video Chat Application**
+- Real-time video calling using WebRTC & Socket.IO  
+- Deployed frontend & backend separately  
+
+🔹 **Interview Platform**
+- AI-driven interview system using Node.js & Gemini API  
+
+🔹 **Cake & Flower Delivery Web App**
+- React + Node.js based e-commerce system  
+- Payment integration & OTP verification  
+
+*(More projects on my repositories 👇)*
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: *(add your link)*
+- 📧 Email: *(add your email)*
+
+---
+
+⭐ Feel free to explore my repositories and connect with me!
