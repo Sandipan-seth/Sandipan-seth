@@ -90,7 +90,6 @@ I’m a passionate developer who enjoys building real-world applications, learni
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sandipan-seth)
 
-(https://camo.githubusercontent.com/1f68d2a511ed49f9d26e630a3542d12f92542a94418df57f0a97057b54c14274/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3230302677696474683d313030252673656374696f6e3d666f6f74657226746578743d5468616e6b253230596f75253230466f722532305669736974696e67)
 
 
 ---
@@ -101,3 +100,10 @@ I’m a passionate developer who enjoys building real-world applications, learni
 ---
 
 ⭐ Feel free to explore my repositories and connect with me!
+
+---
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&width=100%&section=footer&text=Thank%20You%20For%20Visiting)
+
