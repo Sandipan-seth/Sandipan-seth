@@ -103,7 +103,5 @@ I’m a passionate developer who enjoys building real-world applications, learni
 
 ---
 
----
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&width=100%&section=footer&text=Thank%20You%20For%20Visiting)
 
