@@ -7,37 +7,11 @@ I’m a passionate developer who enjoys building real-world applications, learni
 ---
 
 ## 🧑‍💻 About Me
-- 💻 Full Stack Developer
-- 🌐 Experience with React, Next.js, Node.js, Express
-- ☕ Strong foundation in Java & Data Structures
-- 🔌 Worked with WebRTC, Socket.IO, REST APIs
-- 🎯 Interested in System Design & Scalable Applications
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend**
-- React.js
-- Next.js
-- HTML, CSS, Tailwind
-- JavaScript, TypeScript
-
-**Backend**
-- Node.js
-- Express.js
-- REST APIs
-- Socket.IO
-
-**Database**
-- MongoDB
-- MySQL (Basics)
-
-**Other Tools**
-- Git & GitHub
-- Docker (Basics)
-- Postman
-- Vercel / Render
+- 💻 Full Stack Developer  
+- 🌐 Experience with React, Next.js, Node.js, Express  
+- ☕ Strong foundation in Java & Data Structures  
+- 🔌 Worked with WebRTC, Socket.IO, REST APIs  
+- 🎯 Interested in System Design & Scalable Applications  
 
 ---
 
@@ -65,8 +39,8 @@ I’m a passionate developer who enjoys building real-world applications, learni
 
 ---
 
-
 ## 📌 Projects
+
 🔹 **Video Chat Application**
 - Real-time video calling using WebRTC & Socket.IO  
 - Deployed frontend & backend separately  
@@ -78,48 +52,50 @@ I’m a passionate developer who enjoys building real-world applications, learni
 - React + Node.js based e-commerce system  
 - Payment integration & OTP verification  
 
-*(More projects on my repositories 👇)*
+*(More projects available in my repositories 👇)*
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Sandipan-seth&show_icons=true&theme=tokyonight&hide_border=true" 
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sandipan-seth&show_icons=true&theme=tokyonight&hide_border=true"
     height="170"
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandipan-seth&layout=compact&theme=tokyonight&hide_border=true" 
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sandipan-seth&layout=compact&theme=tokyonight&hide_border=true"
     height="170"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Sandipan-seth&theme=tokyonight&hide_border=true" 
+  <img
+    src="https://streak-stats.demolab.com?user=Sandipan-seth&theme=tokyonight&hide_border=true"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Sandipan-seth&theme=tokyo-night&hide_border=true" 
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Sandipan-seth&theme=tokyo-night&hide_border=true"
   />
 </p>
-
-
-
 
 ---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/Sandipan-seth/Sandipan-seth/blob/output/github-contribution-grid-snake.svg" />
+  <img
+    src="https://raw.githubusercontent.com/Sandipan-seth/Sandipan-seth/output/github-contribution-grid-snake.svg"
+    alt="Contribution Snake Animation"
+  />
 </p>
 
 ---
+
 ## 📫 Connect With Me
-- 📧 Email: sandipanseth2004@gmail.com
+- 📧 Email: **sandipanseth2004@gmail.com**
 
 ---
 
@@ -128,4 +104,3 @@ I’m a passionate developer who enjoys building real-world applications, learni
 ---
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&width=100%&section=footer&text=Thank%20You%20For%20Visiting)
-
