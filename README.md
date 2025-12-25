@@ -84,11 +84,18 @@ I’m a passionate developer who enjoys building real-world applications, learni
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandipan-seth&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sandipan-seth&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandipan-seth&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Sandipan-seth)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sandipan-seth&theme=tokyonight&hide_border=true"/>
+</p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sandipan-seth)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandipan-seth&theme=tokyo-night&hide_border=true"/>
+</p>
 
 
 
